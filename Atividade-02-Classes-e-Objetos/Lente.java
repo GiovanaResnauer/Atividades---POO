@@ -1,4 +1,3 @@
-
 public class Lente {
 
     String marca;
