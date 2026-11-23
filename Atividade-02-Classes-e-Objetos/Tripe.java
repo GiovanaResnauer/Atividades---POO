@@ -1,4 +1,3 @@
-
 public class Tripe {
 
     String marca;
